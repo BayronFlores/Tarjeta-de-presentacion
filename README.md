@@ -132,6 +132,8 @@ const CARD = {
   /* ── Cara trasera ── */
   tagline: "Línea 1\nLínea 2", // \n genera un salto de línea
   github: "github.com/TuUsuario",
+
+  qrUrl: "https://tuportafolio.com", // URL que codifica el QR
 };
 ```
 
